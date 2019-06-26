@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="aws-apis.aws.main" target="1.8" />
+      <module name="aws-apis.aws.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
